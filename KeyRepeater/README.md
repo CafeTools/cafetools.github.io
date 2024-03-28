@@ -27,8 +27,8 @@ Have you played a game so hard that you broke your keyboard? Or do you have to p
 - Windows 11 and Windows 10 version 1809 or higher
 
 ## Installation
-- Mac Silicon : [KeyRepeater-lite-1.0.0.pkg](release/KeyRepeater-lite-1.0.0.pkg)
-- Windows : [KeyRepeater-lite-1.0.0.msi](#)
+- Mac Silicon : [KeyRepeater-Lite-1.0.0-Release.pkg](release/KeyRepeater-Lite-1.0.0-Release.pkg)
+- Windows : [KeyRepeater-Lite-1.0.0-Release.msi](#)
 - The Pro version can only be downloaded from the store.
 
 
