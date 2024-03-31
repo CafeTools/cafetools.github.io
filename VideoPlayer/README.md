@@ -11,7 +11,7 @@ A basic video player exists in all desktop environments. However, I feel frustra
 - Provides the functions of a typical video player.
 - This game-specific feature displays player information and the location of death.
 - The player can add and edit subtitles quickly and easily.
-- This is a great help in briefing after a team flash match.
+- This is a great help in briefing after a team play match.
 - You can conveniently upload videos to YouTube.
 
 ## Important
