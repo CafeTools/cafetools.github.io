@@ -41,6 +41,10 @@ In most desktop environments, recording the entire screen or a specific applicat
 - Support League of Legends
     - It's being planned.
 
+## How to use for automatic recording?
+- Just run Screen Recorder before play game.
+
+
 ## System Settings
 ![](images/recorder-setting.png)
 
