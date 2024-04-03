@@ -1,4 +1,4 @@
-| [🏠](/) | 🐻 Screen [Recorder](/ScreenRecorder) | 🐯 Video [Player](/VideoPlayer) | 🐼 Key [Repeater](/KeyRepeater) | 🐥 Recorder [Agents](#) |
+| [🏠](/) | 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 Recorder[Agents](#) |
 |:----------|:----------|:----------|:----------|:----------|
 
 # Key Repeater
