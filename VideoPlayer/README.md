@@ -1,5 +1,5 @@
-| [🏠](/) | 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 Recorder[Agents](#) |
-|:----------|:----------|:----------|:----------|:----------|
+| 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 Recorder[Agents](#) |
+|:----------|:----------|:----------|:----------|
 
 # Video Player
 A basic video player exists in all desktop environments. However, I feel frustrated because subtitles are not supported or the file size is too heavy. And i felt the need for a new video player for the special features we provide only for CafeTools VideoPlayer.

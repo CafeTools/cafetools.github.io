@@ -1,5 +1,5 @@
-| [🏠](/) | 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 Recorder[Agents](#) |
-|:----------|:----------|:----------|:----------|:----------|
+| 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 Recorder[Agents](#) |
+|:----------|:----------|:----------|:----------|
 
 # Key Repeater
 Have you played a game so hard that you broke your keyboard? Or do you have to press the keyboard repeatedly for 24 hours without sleeping? Let's find the solution.

@@ -1,5 +1,5 @@
-| [🏠](/) | 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 Recorder[Agents](#) |
-|:----------|:----------|:----------|:----------|:----------|
+| 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 Recorder[Agents](#) |
+|:----------|:----------|:----------|:----------|
 
 # Screen Recorder
 In most desktop environments, recording the entire screen or a specific application is no longer difficult. Basically, there are functions provided by the operating system, and in some cases, commercial recording apps are used. However, my goal is to solve that problem because it is very tiring if I need to automatically record certain situations or record and stop repeatedly.
