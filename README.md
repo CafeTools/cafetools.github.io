@@ -1,7 +1,6 @@
-<div class="notranslate">
+<!--notranslate-->
 | [🏠](/) | 🐻 Screen [Recorder](/ScreenRecorder) | 🐯 Video [Player](/VideoPlayer) | 🐼 Key [Repeater](/KeyRepeater) | 🐥 Recorder [Agents](#) |
 |:----------|:----------|:----------|:----------|:----------|
-</div>
 
 > All apps try to support both Windows and MacOS as much as possible.
 
