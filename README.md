@@ -1,5 +1,4 @@
-<!--notranslate-->
-| [🏠](/) | 🐻 Screen [Recorder](/ScreenRecorder) | 🐯 Video [Player](/VideoPlayer) | 🐼 Key [Repeater](/KeyRepeater) | 🐥 Recorder [Agents](#) |
+| [🏠](/) | 🐻 <!--notranslate--> Screen [Recorder](/ScreenRecorder) | 🐯 Video [Player](/VideoPlayer) | 🐼 Key [Repeater](/KeyRepeater) | 🐥 Recorder [Agents](#) |
 |:----------|:----------|:----------|:----------|:----------|
 
 > All apps try to support both Windows and MacOS as much as possible.
