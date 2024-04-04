@@ -37,6 +37,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 - Support World of warcraft
     - Installation is possible from the Recorder menu.
     - Agent(wow log parser) + Wow Game Addon
+    - Currently only Arena and Battleground modes are supported.
 
 - Support League of Legends
     - It's being planned.
