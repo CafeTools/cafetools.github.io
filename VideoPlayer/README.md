@@ -9,7 +9,7 @@ A default video player exists in all desktop environments. However, many players
 
 ## Features
 - Provides the functions of a typical video player.
-- This game-specific feature displays player information and the location of death.
+- Displays the player's death location provided by ScreenRecorder.
 - The player can add and edit subtitles quickly and easily.
 - This is a great help in briefing after a team play match.
 - You can conveniently upload videos to YouTube.
