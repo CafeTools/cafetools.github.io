@@ -14,7 +14,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 - Any game can be supported as long as it develop a agent related to that game.
 - Generates subtitles containing various information related to deaths and wins and losses during the game.
 
-## About World of Warcraft
+## Support World of Warcraft
 ![](images/wow-dragon-flight.jpg)
 
 - The only game currently supported by the product is World of Warcraft.
