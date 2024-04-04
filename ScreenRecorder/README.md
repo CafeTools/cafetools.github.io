@@ -11,7 +11,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 - Provides the functions of a typical screen recording application.
 - Use with agent apps to automatically record specific game situations.
 - Automatically start recording when the battlefield starts in World of Warcraft
-- Any game can be supported as long as it develop a plug-in related to that game.
+- Any game can be supported as long as it develop a agent related to that game.
 - Generates subtitles containing various information related to deaths and wins and losses during the game.
 
 ## About World of Warcraft
