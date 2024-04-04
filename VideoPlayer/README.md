@@ -2,7 +2,7 @@
 |:----------|:----------|:----------|:----------|
 
 # Video Player
-A basic video player exists in all desktop environments. However, I feel frustrated because subtitles are not supported or the file size is too heavy. And i felt the need for a new video player for the special features we provide only for CafeTools VideoPlayer.
+A default video player exists in all desktop environments. However, many players operate slowly because subtitles are not supported or there are too many functions. And the development of a new video player was essential to effectively use the features that only CafeTools' ScreenRecorder provides.
 
 ![](images/player-pvp.png) 
 
