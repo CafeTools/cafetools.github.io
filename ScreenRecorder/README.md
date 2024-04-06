@@ -47,6 +47,8 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## How to use for automatic recording?
+- Install World of Warcraft add-on
+- If you installed the add-on while World of Warcraft is already running, enter the /reload command.
 - Just run Screen Recorder before play game.
 - No need to press any buttons.
 
@@ -57,4 +59,5 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 ## Release History
 - 2024-04-01 : 1.0.0
+
 
