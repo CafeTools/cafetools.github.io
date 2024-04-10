@@ -31,7 +31,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 ## Installation
 - Screen Recorder
-    - Mac Silicon : [ScreenRecorder1.0.0.pkg](#)
+    - Mac Silicon : [ScreenRecorder-Lite-1.0.0.pkg](release/ScreenRecorder-Lite-1.0.0.pkg)
     - Windows : [ScreenRecorder1.0.0.msi](#)
 
 - Support World of warcraft
