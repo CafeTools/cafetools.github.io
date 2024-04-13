@@ -45,7 +45,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 ## How to use for automatic recording?
 - Install World of Warcraft addon
-- Just run Screen Recorder before play game.
+- Just run Screen Recorder.
 - No need to press any buttons.
 
 
