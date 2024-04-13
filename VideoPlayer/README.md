@@ -11,19 +11,14 @@ A default video player exists in all desktop environments. However, many players
 - Provides the functions of a typical video player.
 - Displays the player's death location provided by ScreenRecorder.
 - The player can add and edit subtitles quickly and easily.
-- This is a great help in briefing after a team play match.
 - You can conveniently upload videos to YouTube.
-
-## Important
-- When adding a subtitle, if it starts with "Mark: ", a Mark will be added to the Video ProgressBar.
 
 ## Support Enviroment
 - Mac silicon, macOS 14.0 or higher
 - Windows 11 and Windows 10 version 1809 or higher
 
 ## Installation
-
-- Mac Silicon : [VideoPlayer1.0.0.pkg](release/VideoPlayer-lite-1.0.0.pkg)
+- Mac Silicon : [VideoPlayer1.0.0.pkg](release/VideoPlayer-Lite-1.0.0.pkg)
 - Windows : [VideoPlayer1.0.0.msi](#)
 
 ## Privacy Policy
