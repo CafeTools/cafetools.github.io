@@ -17,9 +17,9 @@ In most desktop environments, recording the entire screen or a specific applicat
 ![](images/wow-dragon-flight.jpg)
 
 - The only game currently supported by the product is World of Warcraft.
-- Download the Add-on from the Download menu at the top.
+- ScreenRecorder's Download menu includes addon for World of Warcraft.
 - After copy the World of Warcraft addon, you must command /reload on the game.
-- Check if it has been applied in the Add-on menu of World of Warcraft.
+- Check if it has been applied in the addon menu of World of Warcraft.
 
 ![](images/wow-addon.png)
 
@@ -44,7 +44,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## How to use for automatic recording?
-- Install World of Warcraft add-on
+- Install World of Warcraft addon
 - Just run Screen Recorder before play game.
 - No need to press any buttons.
 
