@@ -17,8 +17,9 @@ In most desktop environments, recording the entire screen or a specific applicat
 ![](images/wow-dragon-flight.jpg)
 
 - The only game currently supported by the product is World of Warcraft.
-- After installing the World of Warcraft addon, you must command /reload on the game.
-- The addon is also distributed on [CurseForge](https://www.curseforge.com), so you can download the latest version here.
+- Download the Add-on from the Download menu at the top.
+- After copy the World of Warcraft addon, you must command /reload on the game.
+- Check if it has been applied in the Add-on menu of World of Warcraft.
 
 ![](images/wow-addon.png)
 
@@ -44,7 +45,6 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 ## How to use for automatic recording?
 - Install World of Warcraft add-on
-- If you installed the add-on while World of Warcraft is already running, enter the /reload command.
 - Just run Screen Recorder before play game.
 - No need to press any buttons.
 
