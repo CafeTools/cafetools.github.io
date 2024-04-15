@@ -34,7 +34,7 @@
 
 
 ## Contact
-- E-mail: <admin@cafetools.net>
+- E-mail: <cafetools24@gmail.com>
 - Discord: [cafetools channel](https://discord.com/channels/1063039297416085514/1221757037189402675)
 - GitHub: https://cafetools.github.io
 
