@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<div id="output"></div>
+<script>
+
+function getOS() {
+    var agent = navigator.userAgent;
+    var os = 'unknown';
+    if (agent.match(/Windows/)){ os = 'windows' } 
+    else if (agent.match(/Macintosh|Mac OS/)){ os = 'macos' } 
+    else if (agent.match(/Android/)){ os = 'android' } 
+    else if (agent.match(/iOS/)){ os = 'ios' } 
+    return os;
+}
+
+function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+
+function loadJSON(callback) {   
+    var xhr = new XMLHttpRequest();
+    var json = getParameterByName('type') + "-" + getOS();
+
+    xhr.overrideMimeType("application/json");
+    xhr.open('GET', json + '.json', true); // JSON 파일의 경로를 지정
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+            callback(xhr.responseText);
+        }
+    };
+    xhr.send(null);  
+}
+
+function displayData(data) {
+    var json = JSON.parse(data);
+    var output = document.getElementById('output');
+    output.innerHTML = '<pre>' + JSON.stringify(json, null, 2) + '</pre>';
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    loadJSON(displayData);
+});
+</script>
+
+</body>
+</html>
+
