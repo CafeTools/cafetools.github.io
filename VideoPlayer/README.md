@@ -19,7 +19,7 @@ A default video player exists in all desktop environments. However, many players
 
 ## Installation
 - Mac Silicon : [VideoPlayer1.0.0.pkg](release/VideoPlayer-Lite-1.0.0.pkg)
-- Windows : [VideoPlayer1.0.0.msi](#)
+- Windows : Service is being prepared.
 
 ## Privacy Policy
 [Open Document](policy)

@@ -28,7 +28,7 @@ Have you played a game so hard that you broke your keyboard? Or do you have to p
 
 ## Installation
 - Mac Silicon : [KeyRepeater-Lite-1.0.0.pkg](release/KeyRepeater-Lite-1.0.0.pkg)
-- Windows : [KeyRepeater-Lite-1.0.0.msi](#)
+- Windows : Service is being prepared.
 - The Pro version can only be downloaded from the store.
 
 
