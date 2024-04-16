@@ -31,7 +31,7 @@ function getParameterByName(name, url) {
 
 function loadJSON(callback) {   
     var xhr = new XMLHttpRequest();
-    var json = getParameterByName('id') + "-" + getOS();
+    var json = getParameterByName('type') + "-" + getOS();
 
     xhr.overrideMimeType("application/json");
     xhr.open('GET', json + '.json', true); // JSON 파일의 경로를 지정
