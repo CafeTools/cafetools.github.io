@@ -18,10 +18,17 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 - The only game currently supported by the product is World of Warcraft.
 - ScreenRecorder's Download menu includes addon for World of Warcraft.
-- After install the World of Warcraft addon, you must command /reload on the game.
+- Additionally, you can easily install addon from [CurseForge](https://www.curseforge.com/wow/addons/screenrecorder).
+<br>
+
+![](images/curseforge.png)
+<br>
+
 - Check if it has been applied in the addon menu of World of Warcraft.
+- After install the World of Warcraft addon, you must command /reload on the game.
 
 ![](images/wow-addon.png)
+
 
 
 ## Support Enviroment
