@@ -18,7 +18,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 - The only game currently supported by the product is World of Warcraft.
 - ScreenRecorder's Download menu includes addon for World of Warcraft.
-- Additionally, you can easily install addon from [CurseForge](https://www.curseforge.com/wow/addons/screenrecorder).
+- Additionally, you can easily install addon from [CurseForge/ScreenRecorder](https://www.curseforge.com/wow/addons/screenrecorder).
 <br>
 
 ![](images/curseforge.png)
