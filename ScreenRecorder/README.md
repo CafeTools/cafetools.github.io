@@ -52,7 +52,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 ## How to use for automatic recording?
 - Install World of Warcraft addon
-- Just run ScreenRecorder before join battleground or arena.
+- Just run ScreenRecorder Desktop before join battleground or arena.
 - No need to press any buttons.
 
 
