@@ -36,7 +36,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 - Windows 11 and Windows 10 version 1809 or higher
 
 ## Installation
-- Screen Recorder
+- Screen Recorder Desktop
     - Mac Silicon : [ScreenRecorder-Lite-1.0.0.pkg](release/ScreenRecorder-Lite-1.0.0.pkg)
     - Windows : Service is being prepared.
 
