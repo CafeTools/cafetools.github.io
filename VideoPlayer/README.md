@@ -17,14 +17,23 @@ A default video player exists in all desktop environments. However, many players
 - Mac silicon, macOS 14.0 or higher
 - Windows 11 and Windows 10 version 1809 or higher
 
-## Installation
-- Mac Silicon : [VideoPlayer1.0.0.pkg](release/VideoPlayer-Lite-1.0.0.pkg)
+
+## Installation (Mac Silicon)
+- [VideoPlayer1.0.1.pkg](release/VideoPlayer-Lite-1.0.1.pkg)
+- [VideoPlayer1.0.0.pkg](release/VideoPlayer-Lite-1.0.0.pkg)
+
+
+## Installation (Windows)
 - Windows : Service is being prepared.
+
 
 ## Privacy Policy
 [Open Document](policy)
 
+
 ## Release History
+- 2024-04-18 : 1.0.1
+    - The horizontal and vertical aspect ratios of the screen have been modified to be adjusted.
 - 2024-04-01 : 1.0.0
 
 
