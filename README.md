@@ -35,7 +35,7 @@
 
 ## Contact
 - E-mail: <cafetools24@gmail.com>
-- Discord: [cafetools channel](https://discord.com/channels/1063039297416085514/1221757037189402675)
+- Discord: [cafetools channel](https://discord.gg/an8SPtTb)
 - GitHub: https://cafetools.github.io
 
 <br>
