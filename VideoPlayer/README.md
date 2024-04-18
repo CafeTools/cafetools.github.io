@@ -11,7 +11,7 @@ A default video player exists in all desktop environments. However, many players
 - Provides the functions of a typical video player.
 - Displays the player's death location provided by ScreenRecorder.
 - The player can add and edit subtitles quickly and easily.
-- You can conveniently upload videos to YouTube.
+
 
 ## Support Enviroment
 - Mac silicon, macOS 14.0 or higher
