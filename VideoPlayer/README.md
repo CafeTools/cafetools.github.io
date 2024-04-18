@@ -18,12 +18,12 @@ A default video player exists in all desktop environments. However, many players
 - Windows 11 and Windows 10 version 1809 or higher
 
 
-## Installation (Mac Silicon)
+## Installation (macOS)
 - [VideoPlayer1.0.1.pkg](release/VideoPlayer-Lite-1.0.1.pkg)
 - [VideoPlayer1.0.0.pkg](release/VideoPlayer-Lite-1.0.0.pkg)
 
 
-## Installation (Windows)
+## Installation (windows)
 - Windows : Service is being prepared.
 
 
