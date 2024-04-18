@@ -24,7 +24,7 @@ A default video player exists in all desktop environments. However, many players
 
 
 ## Installation (windows)
-- Windows : Service is being prepared.
+- Service is being prepared.
 
 
 ## Privacy Policy
