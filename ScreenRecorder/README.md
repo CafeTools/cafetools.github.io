@@ -37,7 +37,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 ## Installation
 - Screen Recorder Desktop
-    - Mac Silicon : [ScreenRecorder-Lite-1.0.0.pkg](release/ScreenRecorder-Lite-1.0.0.pkg)
+    - Mac Silicon : [ScreenRecorder-Lite-1.0.1.pkg](release/ScreenRecorder-Lite-1.0.1.pkg)
     - Windows : Service is being prepared.
 
 - Support World of warcraft
@@ -61,6 +61,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Release History
+- 2024-04-19 : 1.0.1
 - 2024-04-01 : 1.0.0
 
 
