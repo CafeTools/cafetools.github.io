@@ -39,7 +39,8 @@
 - Discussions: https://github.com/CafeTools/cafetools.github.io/discussions
 - Issue: https://github.com/CafeTools/cafetools.github.io/issues
 - Wifi: https://github.com/CafeTools/cafetools.github.io/wiki
-- Discord-ID: Cafe1398
+- Discord-ID: cafe1398
+- World of Warcraft: Warrior(Cåfe, Cåfë), Paladin(Cafë), allmost all Cafe IDs
 <br>
 
 ---
