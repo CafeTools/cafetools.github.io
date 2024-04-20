@@ -10,7 +10,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 ## Features
 - Provides the functions of a typical screen recording application.
 - Use with extra apps to automatically record specific game situations.
-- Automatically start recording when the battlefield starts in World of Warcraft
+- Automatically start recording when the battlefield or arena starts in World of Warcraft
 - Generates subtitles containing various information related to deaths and wins and losses during the game.
 
 ## Support World of Warcraft
