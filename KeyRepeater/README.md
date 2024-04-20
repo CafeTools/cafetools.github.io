@@ -24,7 +24,7 @@ Have you played a game so hard that you broke your keyboard? Or do you have to p
 
 ## Support Enviroment
 - Mac silicon, macOS 14.0 or higher
-- Windows 11 and Windows 10 version 1809 or higher
+- Windows 11 higher
 
 ## Installation
 - Mac Silicon : [KeyRepeater-Lite-1.0.0.pkg](release/KeyRepeater-Lite-1.0.0.pkg)

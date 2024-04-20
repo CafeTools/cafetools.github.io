@@ -10,12 +10,13 @@ A default video player exists in all desktop environments. However, many players
 ## Features
 - Provides the functions of a typical video player.
 - Displays the player's death location provided by ScreenRecorder.
+- It can check various information that occurred in the game through subtitles.
 - The player can add and edit subtitles quickly and easily.
 
 
 ## Support Enviroment
 - Mac silicon, macOS 14.0 or higher
-- Windows 11 and Windows 10 version 1809 or higher
+- Windows 11 higher
 
 
 ## Installation (macOS)

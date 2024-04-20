@@ -33,7 +33,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 ## Support Enviroment
 - Mac silicon, macOS 14.0 or higher
-- Windows 11 and Windows 10 version 1809 or higher
+- Windows 11 higher
 
 ## Installation
 - Screen Recorder Desktop
