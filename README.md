@@ -35,8 +35,10 @@
 
 ## Contact
 - E-mail: <cafetools24@gmail.com>
-- Discord: [cafetools channel](https://discord.gg/an8SPtTb)
+- Discord: cafe1398
 - GitHub: https://cafetools.github.io
+- Issue: https://github.com/CafeTools/cafetools.github.io/issues
+- Wifi: https://github.com/CafeTools/cafetools.github.io/wiki
 
 <br>
 
