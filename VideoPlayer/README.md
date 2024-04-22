@@ -20,6 +20,7 @@ A default video player exists in all desktop environments. However, many players
 
 
 ## Installation (macOS)
+- 2024-04-22 : [VideoPlayer1.0.2.pkg](release/VideoPlayer-Lite-1.0.2.pkg)
 - 2024-04-18 : [VideoPlayer1.0.1.pkg](release/VideoPlayer-Lite-1.0.1.pkg)
 - 2024-04-01 : [VideoPlayer1.0.0.pkg](release/VideoPlayer-Lite-1.0.0.pkg)
 
@@ -33,6 +34,9 @@ A default video player exists in all desktop environments. However, many players
 
 
 ## Release History
+- 2024-04-18 : 1.0.2
+    - To enhance security, only videos in the Movies, Download, Music, and Picture folders can be viewed.
+    - A fix has been made to allow you to set the current product as the default video player.
 - 2024-04-18 : 1.0.1
     - The horizontal and vertical aspect ratios of the screen have been modified to be adjusted.
 - 2024-04-01 : 1.0.0
