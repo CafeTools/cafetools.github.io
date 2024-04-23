@@ -30,7 +30,6 @@ In most desktop environments, recording the entire screen or a specific applicat
 ![](images/wow-addon.png)
 
 
-
 ## Support Enviroment
 - Mac silicon, macOS 14.0 or higher
 - Windows 11 higher
@@ -60,7 +59,6 @@ In most desktop environments, recording the entire screen or a specific applicat
 ## Release History
 - 2024-04-22 : 1.0.3
     - The performance of the program has been optimized.
-- 2024-04-19 : 1.0.2
 - 2024-04-01 : 1.0.0
 
 
