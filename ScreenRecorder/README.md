@@ -1,17 +1,20 @@
 | 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 ProxyApps |
 |:----------|:----------|:----------|:----------|
 
+
 # Screen Recorder
 In most desktop environments, recording the entire screen or a specific application is no longer difficult. Basically, there are functions provided by the operating system, and in some cases, commercial recording apps are used. However, my goal is to solve that problem because it is very tiring if I need to automatically record certain situations or record and stop repeatedly.
 
 ![](images/recorder-normal.png) 
 ![](images/recorder-ing.png)
 
+
 ## Features
 - Provides the functions of a typical screen recording application.
 - Use with extra apps to automatically record specific game situations.
 - Automatically start recording when the battlefield or arena starts in World of Warcraft
 - Generates subtitles containing various information related to deaths and wins and losses during the game.
+
 
 ## Support World of Warcraft
 ![](images/wow-dragon-flight.jpg)
@@ -31,12 +34,14 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Support Enviroment
-- Mac silicon, macOS 14.0 or higher
+- Mac(apple), macOS 14.0 or higher
 - Windows 11 higher
+
 
 ## Download & Installation (Desktop)
 - macOS: [ScreenRecorder-Lite-1.0.3.pkg](release/ScreenRecorder-Lite-1.0.3.pkg)
 - Windows: Service is being prepared.
+
 
 ## Future Plans
 - World of warcraft
@@ -45,6 +50,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 - League of Legends
     - It's being planned.
+
 
 ## System Settings
 ![](images/recorder-setting.png)

@@ -1,10 +1,12 @@
 | 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 ProxyApps |
 |:----------|:----------|:----------|:----------|
 
+
 # Key Repeater
 Have you played a game so hard that you broke your keyboard? Or do you have to press the keyboard repeatedly for 24 hours without sleeping? Let's find the solution.
 
 ![](images/repeater.png)
+
 
 ## Setting modes
 - Press the last key you pressed repeatedly the set number of times.
@@ -13,8 +15,9 @@ Have you played a game so hard that you broke your keyboard? Or do you have to p
 - Infinite mode: Repeats the key indefinitely without stopping.
 - Pushing mode: It repeats only when the key is pressed, and stops repeating when the key is released.
 
+
 ## Support Enviroment
-- Mac silicon, macOS 14.0 or higher
+- Mac(apple), macOS 14.0 or higher
 - Windows 11 higher
 
 

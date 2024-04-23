@@ -1,6 +1,7 @@
 | 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 ProxyApps |
 |:----------|:----------|:----------|:----------|
 
+
 # Video Player
 A default video player exists in all desktop environments. However, many players operate slowly because subtitles are not supported or there are too many functions. And the development of a new video player was essential to effectively use the features that only CafeTools' ScreenRecorder provides.
 
@@ -15,7 +16,7 @@ A default video player exists in all desktop environments. However, many players
 
 
 ## Support Enviroment
-- Mac silicon, macOS 14.0 or higher
+- Mac(apple), macOS 14.0 or higher
 - Windows 11 higher
 
 
