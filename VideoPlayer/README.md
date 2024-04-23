@@ -24,10 +24,6 @@ A default video player exists in all desktop environments. However, many players
 - Windows: Service is being prepared.
 
 
-## Privacy Policy
-[Open Document](policy)
-
-
 ## Release History
 - 2024-04-18 : 1.0.2
     - To enhance security, only videos in the Movies, Download, Music, and Picture folders can be viewed.
@@ -35,5 +31,9 @@ A default video player exists in all desktop environments. However, many players
 - 2024-04-18 : 1.0.1
     - The horizontal and vertical aspect ratios of the screen have been modified to be adjusted.
 - 2024-04-01 : 1.0.0
+
+
+## Privacy Policy
+[Open Document](policy)
 
 

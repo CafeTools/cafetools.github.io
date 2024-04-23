@@ -57,12 +57,14 @@ In most desktop environments, recording the entire screen or a specific applicat
 - No need to press any buttons.
 
 
-## Privacy Policy
-[Open Document](policy)
-
-
 ## Release History
 - 2024-04-22 : 1.0.3
     - The performance of the program has been optimized.
 - 2024-04-19 : 1.0.2
 - 2024-04-01 : 1.0.0
+
+
+## Privacy Policy
+[Open Document](policy)
+
+

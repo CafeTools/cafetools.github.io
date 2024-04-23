@@ -27,11 +27,11 @@ Have you played a game so hard that you broke your keyboard? Or do you have to p
 ![](images/repeater-setting.png)
 
 
-## Privacy Policy
-[Open Document](policy)
-
-
 ## Release History
 - 2024-04-01 : 1.0.0
+
+
+## Privacy Policy
+[Open Document](policy)
 
 
