@@ -13,23 +13,14 @@ Have you played a game so hard that you broke your keyboard? Or do you have to p
 - Infinite mode: Repeats the key indefinitely without stopping.
 - Pushing mode: It repeats only when the key is pressed, and stops repeating when the key is released.
 
-
-## Price Plans
-| Category      | 🌱 Lite ver | 🌴 Pro ver |
-|:--------------|:---------|:--------|
-| Price         |  Free    | 9.9$    |
-| Manual mode   |  [O]     | [O]     |
-| Infinite mode |  [X]     | [O]     |
-| Pushing mode  |  [X]     | [O]     |
-
 ## Support Enviroment
 - Mac silicon, macOS 14.0 or higher
 - Windows 11 higher
 
+
 ## Installation
-- Mac Silicon : [KeyRepeater-Lite-1.0.0.pkg](release/KeyRepeater-Lite-1.0.0.pkg)
-- Windows : Service is being prepared.
-- The Pro version can only be downloaded from the store.
+- macOS: [KeyRepeater-Lite-1.0.0.pkg](release/KeyRepeater-Lite-1.0.0.pkg)
+- Windows: Service is being prepared.
 
 
 ## System Settings
@@ -42,4 +33,5 @@ Have you played a game so hard that you broke your keyboard? Or do you have to p
 
 ## Release History
 - 2024-04-01 : 1.0.0
+
 

@@ -32,13 +32,12 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Support Enviroment
-- Mac silicon, macOS 14.0 or higher
+- Mac silicon, macOS 14.0 or higher
 - Windows 11 higher
 
-## Installation
-- Screen Recorder Desktop
-    - Mac Silicon : [ScreenRecorder-Lite-1.0.2.pkg](release/ScreenRecorder-Lite-1.0.2.pkg)
-    - Windows : Service is being prepared.
+## Download & Installation (Desktop)
+- macOS: [ScreenRecorder-Lite-1.0.3.pkg](release/ScreenRecorder-Lite-1.0.3.pkg)
+- Windows: Service is being prepared.
 
 - Support World of warcraft
     - Currently only Arena and Battleground modes are supported.
@@ -61,7 +60,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Release History
+- 2024-04-22 : 1.0.3
+    - The performance of the program has been optimized.
 - 2024-04-19 : 1.0.2
 - 2024-04-01 : 1.0.0
-
-
