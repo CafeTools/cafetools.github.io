@@ -39,10 +39,12 @@ In most desktop environments, recording the entire screen or a specific applicat
 - macOS: [ScreenRecorder-Lite-1.0.3.pkg](release/ScreenRecorder-Lite-1.0.3.pkg)
 - Windows: Service is being prepared.
 
-- Support World of warcraft
+## Future Plans
+- World of warcraft
     - Currently only Arena and Battleground modes are supported.
+    - I plan to support mythick & raid dungeon modes.
 
-- Support League of Legends
+- League of Legends
     - It's being planned.
 
 ## System Settings
