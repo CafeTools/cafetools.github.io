@@ -5,20 +5,18 @@
 
 
 ## Development tools & Languages
-- Screen Recorder : Xcode(SwiftUI), VisualStudio(C#.Net)
+- Screen Recorder : Xcode(SwiftUI, Object-C), VisualStudio(C#.Net, C++)
 - Video Player : Xcode(SwiftUI), AndroidStudio(Flutter.Dart)
-- Key Repeater : Xcode(Swift.Xib), VisualStudio(C#.Form)
-- Recorder Agents : VSCode(C#.Net), XCode(Swift)
-- Addon for [World of warcraft] : VSCode(Lua)
-- Web Sites : VSCode(React.js, Next.js)
+- Key Repeater : Xcode(Swift.Xib), VisualStudio(C#.Form, C++)
+- Addon for World of warcraft : VSCode(Lua)
+
 
 ## Development enviroment previously
-- Nodejs, Vue, Nuxt, Vuetify
-- NetBeans, Java, PHP, Phalcon
-- CentOS & Ubuntu, MySql, Redis
-- Unity3D, C#, JavaScript
-- JBuilder, Android, JavaFX, Swing, Vert.x
+- PHP(Phalcon), Nodejs, Vue, Next
+- Unity3D, C#, Ubuntu, MySql, Redis
+- NetBeans, Android, Java(Vert.x)
 - C/C++, Win32, MFC, DirectX
+
 
 ## Workspace
 > I only drink large size "Ice cafe latte".
