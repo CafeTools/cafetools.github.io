@@ -19,14 +19,9 @@ A default video player exists in all desktop environments. However, many players
 - Windows 11 higher
 
 
-## Installation (macOS)
-- 2024-04-22 : [VideoPlayer1.0.2.pkg](release/VideoPlayer-Lite-1.0.2.pkg)
-- 2024-04-18 : [VideoPlayer1.0.1.pkg](release/VideoPlayer-Lite-1.0.1.pkg)
-- 2024-04-01 : [VideoPlayer1.0.0.pkg](release/VideoPlayer-Lite-1.0.0.pkg)
-
-
-## Installation (windows)
-- Service is being prepared.
+## Download & Installation
+- macOS: [VideoPlayer-Lite-1.0.2.pkg](release/VideoPlayer-Lite-1.0.2.pkg)
+- Windows: Service is being prepared.
 
 
 ## Privacy Policy
