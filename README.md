@@ -5,10 +5,11 @@
 
 
 ## Development tools & Languages
-- Screen Recorder : Xcode(SwiftUI, Object-C), VisualStudio(C#.Net, C++)
-- Video Player : Xcode(SwiftUI), AndroidStudio(Flutter.Dart)
-- Key Repeater : Xcode(Swift.Xib), VisualStudio(C#.Form, C++)
-- Addon for World of warcraft : VSCode(Lua)
+- DevTools : XCode, VSCode, VisualStudio, AndroidStudio
+- ScreenRecorder : SwiftUI, Object-C, C#.Net
+- VideoPlayer : SwiftUI, Flutter.Dart
+- KeyRepeater : Swift.Xib, MFC(C++)
+- Addon (World of warcraft) : Lua
 
 
 ## Development enviroment previously
@@ -38,7 +39,7 @@
 - Issue: https://github.com/CafeTools/cafetools.github.io/issues
 - Wifi: https://github.com/CafeTools/cafetools.github.io/wiki
 - Discord-ID: cafe1398
-- World of Warcraft: Warrior(Cåfe, Cåfë), Paladin(Cafë), allmost all Cafe IDs
+- World of Warcraft: Warrior(Cåfe), Paladin(Cafë), allmost all Cafe IDs
 <br>
 
 ---
