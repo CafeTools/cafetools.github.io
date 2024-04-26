@@ -6,15 +6,15 @@
 
 ## Development tools & Languages
 - DevTools : XCode, VSCode, VisualStudio, AndroidStudio
-- ScreenRecorder : SwiftUI, Object-C, C#.Net
+- ScreenRecorder : SwiftUI, C#.Net
 - VideoPlayer : SwiftUI, Flutter.Dart
-- KeyRepeater : Swift.Xib, MFC(C++)
+- KeyRepeater : Swift.Xib, MFC
 - Addon (World of warcraft) : Lua
 
 
 ## Development enviroment previously
-- PHP(Phalcon), Nodejs, Vue, Next
-- Unity3D, C#, Ubuntu, MySql, Redis
+- PHP(Phalcon), Node.js, Nuxt, Next
+- Unity3D, Ubuntu, MySql, Redis
 - NetBeans, Android, Java(Vert.x)
 - C/C++, Win32, MFC, DirectX
 
