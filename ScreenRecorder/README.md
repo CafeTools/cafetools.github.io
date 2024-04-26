@@ -71,6 +71,6 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Privacy Policy
-[Open Document](policy)
+- [Open Document](policy)
 
 

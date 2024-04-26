@@ -35,6 +35,6 @@ Have you played a game so hard that you broke your keyboard? Or do you have to p
 
 
 ## Privacy Policy
-[Open Document](policy)
+- [Open Document](policy)
 
 

@@ -35,6 +35,6 @@ A default video player exists in all desktop environments. However, many players
 
 
 ## Privacy Policy
-[Open Document](policy)
+- [Open Document](policy)
 
 
