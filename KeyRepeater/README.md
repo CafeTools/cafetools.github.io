@@ -18,7 +18,7 @@ Have you played a game so hard that you broke your keyboard? Or do you have to p
 
 ## Support Enviroment
 - Mac(apple), macOS 14.0 or higher
-- Windows 11 higher
+- Windows 10 higher
 
 
 ## Installation

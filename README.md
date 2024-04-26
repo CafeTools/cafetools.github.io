@@ -6,7 +6,7 @@
 
 ## Development tools & Languages
 - DevTools : XCode, VSCode, VisualStudio, AndroidStudio
-- ScreenRecorder : SwiftUI, C#.Net
+- ScreenRecorder : SwiftUI, C#.WinForm
 - VideoPlayer : SwiftUI, Flutter.Dart
 - KeyRepeater : Swift.Xib, MFC
 - Addon (World of warcraft) : Lua

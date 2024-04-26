@@ -35,7 +35,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 ## Support Enviroment
 - Mac(apple), macOS 14.0 or higher
-- Windows 11 higher
+- Windows 10 higher
 
 
 ## Download & Installation (Desktop)

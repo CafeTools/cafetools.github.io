@@ -17,7 +17,7 @@ A default video player exists in all desktop environments. However, many players
 
 ## Support Enviroment
 - Mac(apple), macOS 14.0 or higher
-- Windows 11 higher
+- Windows 10 higher
 
 
 ## Download & Installation
