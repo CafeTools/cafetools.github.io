@@ -63,6 +63,8 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Release History
+- 2024-04-26 : 1.0.4
+    - Optimized to use minimal memory.
 - 2024-04-22 : 1.0.3
     - The performance of the program has been optimized.
 - 2024-04-01 : 1.0.0
