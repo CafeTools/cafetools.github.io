@@ -39,7 +39,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Download & Installation (Desktop)
-- macOS: [ScreenRecorder-Lite-1.0.4.pkg](release/ScreenRecorder-Lite-1.0.4.pkg)
+- macOS: [ScreenRecorder-Lite-1.0.5.pkg](release/ScreenRecorder-Lite-1.0.5.pkg)
 - Windows: Service is being prepared.
 
 
@@ -63,6 +63,8 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Release History
+- 2024-04-27 : 1.0.5
+    - It has been modified to record Discord sound when recording World of Warcraft.
 - 2024-04-26 : 1.0.4
     - Optimized to use minimal memory.
 - 2024-04-22 : 1.0.3
