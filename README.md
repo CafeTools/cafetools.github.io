@@ -9,19 +9,11 @@
 - ScreenRecorder : SwiftUI, C#.WinForm
 - VideoPlayer : SwiftUI, Flutter.Dart
 - KeyRepeater : Swift.Xib, MFC
-- Addon (World of warcraft) : Lua
-
-
-## Development enviroment previously
-- PHP(Phalcon), Node.js, Nuxt, Next
-- Unity3D, Ubuntu, MySql, Redis
-- NetBeans, Android, Java(Vert.x)
-- C/C++, Win32, MFC, DirectX
+- Unity3D(C#), NetBeans(PHP, Java)
+- Node.js, React(Next), Vue(Nuxt)
 
 
 ## Workspace
-> I only drink large size "Ice cafe latte".
-
 <div style="display: flex;">
     <div style="box-sizing: border-box;">
         <image src="images/cafe_desk.jpg"/>
@@ -35,11 +27,7 @@
 ## Contact
 - E-mail: <cafetools24@gmail.com>
 - WebSite: https://cafetools.github.io or http://CafeTools.net
-- Discussions: https://github.com/CafeTools/cafetools.github.io/discussions
-- Issue: https://github.com/CafeTools/cafetools.github.io/issues
-- Wifi: https://github.com/CafeTools/cafetools.github.io/wiki
-- Discord-ID: cafe1398
-- World of Warcraft: Warrior(Cåfe), Paladin(Cafë), allmost all Cafe IDs
+- World of Warcraft: Paladin(Cafë), Warrior(Cåfe)
 <br>
 
 ---
