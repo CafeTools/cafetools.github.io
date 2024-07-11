@@ -1,5 +1,5 @@
-| 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 🐥 ProxyApps |
-|:----------|:----------|:----------|:----------|
+| 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) |
+|:----------|:----------|:----------|
 
 
 # Key Repeater

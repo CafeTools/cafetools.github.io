@@ -1,5 +1,5 @@
-| 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 
-|:----------|:----------|
+| 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 
+|:----------|:----------|:----------|
 
 > All apps try to support both Windows and MacOS as much as possible.
 

@@ -1,5 +1,5 @@
-| 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 
-|:----------|:----------|
+| 🐻 Screen[Recorder](/ScreenRecorder) | 🐯 Video[Player](/VideoPlayer) | 🐼 Key[Repeater](/KeyRepeater) | 
+|:----------|:----------|:----------|
 
 
 # Video Player
