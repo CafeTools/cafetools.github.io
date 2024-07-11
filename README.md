@@ -25,8 +25,8 @@
 
 
 ## Contact
-- E-mail: <cafetools24@gmail.com>
-- WebSite: https://cafetools.github.io or http://CafeTools.net
+- E-mail: <CafeTools24@gmail.com>, <Admin@CafeTools.net>
+- WebSite: https://CafeTools.github.io or http://CafeTools.net
 - World of Warcraft: Paladin(Cafë), Warrior(Cåfe)
 <br>
 
