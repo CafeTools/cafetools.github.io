@@ -39,7 +39,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Download & Installation (Desktop)
-- macOS: [ScreenRecorder-Lite-1.0.11.pkg](release/ScreenRecorder-Lite-1.0.11.pkg)
+- macOS: [ScreenRecorder-Lite-1.0.12.pkg](release/ScreenRecorder-Lite-1.0.12.pkg)
 - Windows: Service is being prepared.
 
 
@@ -63,7 +63,7 @@ In most desktop environments, recording the entire screen or a specific applicat
 
 
 ## Release History
-- 2024-07-14 : 1.0.11
+- 2024-07-14 : 1.0.12
     - Inside WowProxy updated
 - 2024-06-18 : 1.0.7
     - Inside WowAddon version updated
